@@ -75,7 +75,7 @@ const HeroSection = () => {
         >
           <div className="mx-auto flex max-w-xs flex-col gap-y-4">
             <dt className="text-base leading-7 text-slate-600">Shows e Festivais</dt>
-            <dd className="order-first text-3xl font-semibold tracking-tight text-slate-900 sm:text-5xl">10+</dd>
+            <dd className="order-first text-3xl font-semibold tracking-tight text-slate-900 sm:text-5xl">500+</dd>
           </div>
           <div className="mx-auto flex max-w-xs flex-col gap-y-4">
             <dt className="text-base leading-7 text-slate-600">Anos de Experiência</dt>
