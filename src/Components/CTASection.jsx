@@ -80,7 +80,7 @@ export default function CTASection() {
           {/* Stats */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 pt-16 border-t border-white/10 max-w-2xl mx-auto">
             <div className="text-center">
-              <div className="text-3xl font-bold text-emerald-400 mb-2">10+</div>
+              <div className="text-3xl font-bold text-emerald-400 mb-2">500+</div>
               <div className="text-slate-400">Eventos Realizados</div>
             </div>
             <div className="text-center">
